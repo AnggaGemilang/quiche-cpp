@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/build",
+  "command": "/usr/bin/g++  -I/opt/quiche/quiche/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/app.cpp.o -c /home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/src/app.cpp",
+  "file": "/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/src/app.cpp",
+  "output": "CMakeFiles/main.dir/src/app.cpp.o"
+},
+{
+  "directory": "/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/build",
+  "command": "/usr/bin/g++  -I/opt/quiche/quiche/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/adapter/server/server.cpp.o -c /home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/src/adapter/server/server.cpp",
+  "file": "/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/src/adapter/server/server.cpp",
+  "output": "CMakeFiles/main.dir/src/adapter/server/server.cpp.o"
+}
+]
