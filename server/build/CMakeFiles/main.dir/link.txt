@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/src/app.cpp.o CMakeFiles/main.dir/src/adapter/server/server.cpp.o -o main   -L/opt/quiche/target/release  -Wl,-rpath,/opt/quiche/target/release -lquiche

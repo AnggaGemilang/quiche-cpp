@@ -1,3 +1,0 @@
-/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/build/CMakeFiles/main.dir
-/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/build/CMakeFiles/edit_cache.dir
-/home/angga-gemilang/Documents/LEN/eksplor/quic/quiche/server/build/CMakeFiles/rebuild_cache.dir
